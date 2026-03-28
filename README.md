@@ -33,12 +33,19 @@ A fully functional desktop GUI application for managing sports and academic tour
 - Data persistence between sessions using local text files, so no data is lost on close
 
 ---
+## Proof/Screenshots
+<img width="571" height="331" alt="Screenshot 2026-03-28 225010" src="https://github.com/user-attachments/assets/96ff45c6-184c-4b89-bae2-d8ea32b0810f" />
+<img width="607" height="441" alt="Screenshot 2026-03-28 224736" src="https://github.com/user-attachments/assets/0f56b76f-59e6-49c4-ba23-23f433297136" />
+<img width="575" height="429" alt="Screenshot 2026-03-28 224901" src="https://github.com/user-attachments/assets/ab505d3e-f5b3-4e30-9b63-02102b2c895e" />
+<img width="546" height="336" alt="Screenshot 2026-03-28 224928" src="https://github.com/user-attachments/assets/551eecf5-12c8-4f6f-81e9-f72729b9f5bb" />
+<img width="565" height="653" alt="Screenshot 2026-03-28 224801" src="https://github.com/user-attachments/assets/37a78eab-ff36-445e-b2f2-54f5450e43fd" />
 
 ## How to Run
 
 **Prerequisites:** Python 3 installed on your machine. No additional libraries needed.
 
 **Step 1 — Clone the repository**
+
 
 ```bash
 git clone https://github.com/MoOutlaw/tournament-management-system.git
