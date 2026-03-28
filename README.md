@@ -26,7 +26,7 @@ No external libraries required — uses Python standard library only.
 
 ## 📂 Project Structure
 ## 📋 Project Management
-This project was managed using Agile/Scrum methodology across 4 sprints. Sprint tracking documents and Gantt chart are included in the `/Tournament_System Sprint.pdf` and `Technical_Support_Management_Report` folders.
+This project was managed using Agile/Scrum methodology across 4 sprints. Sprint tracking documents and Gantt chart are included in the `Tournament_System Sprint.pdf` and `Technical_Support_Management_Report` folders.
 
 ## 🎓 Context
 Developed as a college IT Project Management assignment, demonstrating both software development and Agile project management skills.
